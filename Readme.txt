@@ -2,12 +2,7 @@ Advanced MCP Server — Authentication, Database & AI Agent Integration
 
 A production-ready Model Context Protocol (MCP) Server built with Python and FastMCP, featuring JWT authentication via Stytch, SQLAlchemy ORM, and full integration with AI agents like Cline.
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 
 📌 Overview
 This project implements an advanced MCP server that goes beyond the basics — it includes real user authentication, per-user data isolation, and a React frontend for login. The server exposes tools that AI agents can call to manage notes, with every operation authenticated and scoped to the logged-in user.
